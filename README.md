@@ -19,21 +19,7 @@
 
 ---
 
-## 🚀 About Me
 
-```javascript
-const malsha = {
-    role: "Frontend Developer",
-    learning: ["Advanced React", "Modern Frontend Development"],
-    frontend: ["React", "JavaScript", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js", "PHP"],
-    databases: ["MongoDB", "MySQL"],
-    design: ["UI/UX", "Figma"],
-    tools: ["Git", "Docker", "VS Code"],
-    passion: "Building beautiful web experiences ✨",
-    funFact: "🎸 I code better with music!"
-};
-```
 
 I enjoy transforming ideas into **responsive, user-friendly and visually appealing web applications**.
 
@@ -73,31 +59,7 @@ I'm currently focused on improving my React skills and exploring modern frontend
 
 ---
 
-## 🌟 Featured Projects
 
-### 🎬 AURA Cinema
-
-> 🎟️ Movie ticket booking web application with a modern user experience.
-
-**Tech:** HTML • CSS • Bootstrap • JavaScript
-
----
-
-### 👗 KMP Fashion
-
-> 🛍️ Online fashion shopping platform designed to manage products, customers and orders.
-
-**Tech:** PHP • HTML • CSS • JavaScript • AJAX • MySQL
-
----
-
-### 🥥 Coconut Husk Chips
-
-> 🌱 A web-based system developed for managing a coconut husk chips business.
-
-**Tech:** Spring Boot • Java • HTML • CSS • JavaScript
-
----
 
 ## 📊 GitHub Activity
 
@@ -111,23 +73,6 @@ I'm currently focused on improving my React skills and exploring modern frontend
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=malsha247&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
